@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Min Thant Si Thu]!
+I'm Min Thant Si Thu!
 
 ## 🚀 About Me
 - 💻 I'm a student interested in Business, Accounting, ICT and Computer Science.
